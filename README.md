@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **udhayans2004@gmail.com**
 
-- ⚡ Fun fact **I am Good Person**
 <img  alt =" coding " width="400" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
