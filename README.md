@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm UDHAYAN .S</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Student from India</h3>
 
 
 
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Any Tech related Topics , Web Development ,python**
 
