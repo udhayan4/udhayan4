@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Any Tech related Topics , Web Development ,python**
+- 💬 Ask me about ** Any Tech related Topics , Web Development , Python**
 
-- 📫 How to reach me **udhayans2004@gmail.com**
+- 📫 How to reach me **udhayans2004@gmail.com **
 
 <img  alt =" coding " width="400" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <h3 align="left">Connect with me:</h3>
